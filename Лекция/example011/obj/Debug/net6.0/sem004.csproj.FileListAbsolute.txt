@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\практика\sem004\bin\Debug\net6.0\sem004.exe
+C:\Users\Администратор\Desktop\практика\sem004\bin\Debug\net6.0\sem004.deps.json
+C:\Users\Администратор\Desktop\практика\sem004\bin\Debug\net6.0\sem004.runtimeconfig.json
+C:\Users\Администратор\Desktop\практика\sem004\bin\Debug\net6.0\sem004.dll
+C:\Users\Администратор\Desktop\практика\sem004\bin\Debug\net6.0\sem004.pdb
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.dll
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\refint\sem004.dll
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.pdb
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\sem004.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\практика\sem004\obj\Debug\net6.0\ref\sem004.dll

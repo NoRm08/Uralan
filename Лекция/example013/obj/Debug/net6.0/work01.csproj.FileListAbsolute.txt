@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\практика\work01\bin\Debug\net6.0\work01.exe
+C:\Users\Администратор\Desktop\практика\work01\bin\Debug\net6.0\work01.deps.json
+C:\Users\Администратор\Desktop\практика\work01\bin\Debug\net6.0\work01.runtimeconfig.json
+C:\Users\Администратор\Desktop\практика\work01\bin\Debug\net6.0\work01.dll
+C:\Users\Администратор\Desktop\практика\work01\bin\Debug\net6.0\work01.pdb
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.dll
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\refint\work01.dll
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.pdb
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\work01.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\практика\work01\obj\Debug\net6.0\ref\work01.dll
